@@ -15,3 +15,6 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Labirinto do Fauno
 - [ ] Alice no país da maravilhas
 - [ ] A casa nostro
+ -[ ] Treinando meu dragão
+ -[ ] Mostros SA
+ -[ ] Minha mãe é uma peça
