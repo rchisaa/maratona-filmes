@@ -15,3 +15,6 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Labirinto do Fauno
 - [ ] Harry Potter e o prisioneiro de Azkaban
 - [ ] Coraline
+- [ ] Invocação do mal
+- [ ] Annabelle
+- [ ] 10 coisas que eu odeio em você
