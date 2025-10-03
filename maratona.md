@@ -14,4 +14,4 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] A Viagem de Chihiro
 - [ ] O Labirinto do Fauno
 - [ ] Harry Potter e o prisioneiro de Azkaban
-- [ ] Harry Potter e a pedra filosofal
+- [ ] Coraline
